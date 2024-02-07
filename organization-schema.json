@@ -1,0 +1,35 @@
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Point Digital Finance, Inc.",
+        "url": "https://point.com",
+        "logo": "URL_to_Point's_logo",
+        "legalName": "Point Digital Finance, Inc.",
+        "leiCode": "Your_LEI_Code_Here",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "444 High St",
+            "addressLocality": "Palo Alto",
+            "addressRegion": "CA",
+            "postalCode": "94301-1670",
+            "addressCountry": "US"
+          }
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+1-650-434-3778",
+          "contactType": "customer service",
+          "areaServed": "US",
+          "availableLanguage": ["English"]
+        },
+        "founders": ["Eddie Lim", "Eoin Matthews", "Alex Rampell"],
+        "foundingDate": "2015-08-11",
+        "description": "Point is a pioneering financial technology (fintech) firm that provides a platform for home equity release, allowing homeowners to unlock home equity wealth without monthly payments or income requirements.",
+        "sameAs": [
+          "https://www.linkedin.com/company/point-digital-finance-inc-",
+          "https://twitter.com/point",
+          "Other_social_media_profiles"
+        ]
+      }
