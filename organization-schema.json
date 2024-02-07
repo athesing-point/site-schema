@@ -5,7 +5,6 @@
         "url": "https://point.com",
         "logo": "URL_to_Point's_logo",
         "legalName": "Point Digital Finance, Inc.",
-        "leiCode": "Your_LEI_Code_Here",
         "location": {
           "@type": "Place",
           "address": {
@@ -19,8 +18,8 @@
         },
         "contactPoint": {
           "@type": "ContactPoint",
-          "telephone": "+1-650-434-3778",
-          "contactType": "customer service",
+          "telephone": "+1-888-764-6823",
+          "contactType": "General Inquiry",
           "areaServed": "US",
           "availableLanguage": ["English"]
         },
@@ -29,7 +28,8 @@
         "description": "Point is a pioneering financial technology (fintech) firm that provides a platform for home equity release, allowing homeowners to unlock home equity wealth without monthly payments or income requirements.",
         "sameAs": [
           "https://www.linkedin.com/company/point-digital-finance-inc-",
-          "https://twitter.com/point",
-          "Other_social_media_profiles"
+          "https://twitter.com/pointhomeequity",
+          "https://www.facebook.com/pointhomeequity",
+          "https://www.instagram.com/pointhomeequity/"
         ]
       }
