@@ -7,6 +7,7 @@
       "name": "Point Digital Finance, Inc.",
       "url": "https://point.com",
       "logo": "https://uploads-ssl.webflow.com/62fb9110be019f3cf956c118/65c3f9f823ce50ff588d68e2_Org-Logo.webp",
+      "image": "https://uploads-ssl.webflow.com/62fb9110be019f3cf956c118/6345c5c0979d5e2e06cab1ac_Point--Social-Card-HEI-HELOC-SEED-03.jpg", // Example placeholder
       "description": "Point is a pioneering financial technology (fintech) firm that provides a platform for home equity release, allowing homeowners to unlock home equity wealth without monthly payments or income requirements.",
       "telephone": "+1-888-764-6823",
       "address": {
@@ -17,7 +18,6 @@
         "postalCode": "94301-1670",
         "addressCountry": "US"
       },
-      "image": "https://uploads-ssl.webflow.com/62fb9110be019f3cf956c118/6345c5c0979d5e2e06cab1ac_Point--Social-Card-HEI-HELOC-SEED-03.jpg",
       "sameAs": [
         "https://www.linkedin.com/company/point-digital-finance-inc-",
         "https://twitter.com/pointhomeequity",
